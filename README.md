@@ -154,4 +154,4 @@ launchctl list | grep com.campus.autologin
 
 ## License
 
-MIT 或自定义许可均可。使用者自行承担因违规使用导致的风险。
+禁止用于任何商业用途，使用者自行承担因违规使用导致的风险。
