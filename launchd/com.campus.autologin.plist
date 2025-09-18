@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN"
+  "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>Label</key>
+    <string>com.campus.autologin</string>
+    <key>RunAtLoad</key>
+    <true/>
+    <key>StartInterval</key>
+    <integer>60</integer>
+    <key>KeepAlive</key>
+    <dict>
+      <key>NetworkState</key>
+      <true/>
+    </dict>
+    <key>ProgramArguments</key>
+    <array>
+      <string>/usr/bin/env</string>
+      <string>python3</string>
+      <string>/Users/yourusername/bin/campus_autologin.py</string>
+    </array>
+    <key>StandardOutPath</key>
+    <string>/tmp/campus_autologin.out.log</string>
+    <key>StandardErrorPath</key>
+    <string>/tmp/campus_autologin.err.log</string>
+  </dict>
+</plist>
