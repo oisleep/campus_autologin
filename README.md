@@ -1,0 +1,2 @@
+# campus_autologin
+给女朋友准备的CUMT校园网强制下线后自动登录脚本
