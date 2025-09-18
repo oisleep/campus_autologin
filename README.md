@@ -36,8 +36,8 @@ campus-autologin-mac/
 ### 1. 克隆仓库
 
 ```bash
-git clone https://github.com/yourname/campus-autologin-mac.git
-cd campus-autologin-mac
+git clone https://github.com/oisleep/campus_autologin.git
+cd campus_autologin
 ```
 
 ### 2. 创建 Python 虚拟环境并安装依赖
